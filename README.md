@@ -1,6 +1,4 @@
 # OTA-Transmission-for-Arduino-UNO
-**What is Over the Air (OTA) Transmission?**
-OTA (Over the Air) update is the process of uploading firmware to an Micro controlling module using a Wi-Fi/Bluetooth connection rather than a serial port. Such functionality becomes extremely useful in case of limited or no physical access to the module.
 
 **Components Required:**
 1)Arduino UNO R3
